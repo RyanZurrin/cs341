@@ -1,7 +1,7 @@
 
 /* 
 	Hardware Configuration:
-	STEPR P1 = 3, P2 = 4, steps = 20
+	STEPR P1 = 3, P2 = 4, steps = 60
 	
 	To Do: (1) implement readSerial
 */
