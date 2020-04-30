@@ -1,7 +1,7 @@
 
 /* 
 	Hardware Configuration:
-	STEPR P1 = 3, P2 = 4, steps = 60
+	STEPR P1 = 3, P2 = 4, steps = 36
 	
 	To Do: (1) implement readSerial
 */
@@ -12,7 +12,7 @@
 const int stprP1 = 3;//stepper pin P1
 const int stprP2 = 4;//stepper pin P2
 
-Stepper stepper(60, stprP1,stprP2);//60 steps per revolution
+Stepper stepper(36, stprP1,stprP2);//36 steps per revolution, each step is 10 degrees 
 
 void setup()
 {
