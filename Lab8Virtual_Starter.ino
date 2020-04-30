@@ -23,6 +23,7 @@ void loop() {
 	while (!digitalRead(wave)){	} //wait until the next positive level
 	
 	long count=0;  //count how many times does it poll
+	//Note: count is just for seeing how many times we poll. Don't use count in calculations
 	unsigned long start_time =micros();  //measure the current time in usec
 	
 /* Your code should look something like this:
