@@ -1,4 +1,4 @@
-# cs341
+# CS341 Lab
 Here you'll find all the starter codes for CS341 lab. Instructions for the lab are posted on <a href="https://www.cs.umb.edu/~cheungr/cs341/"> Professor Cheung's Website </a>. 
 
 I have included version 2.8.1 of UnoArduSim for convenience. If you would like to download it yourself it can be found here: https://www.sites.google.com/site/unoardusim/services
