@@ -1,5 +1,5 @@
 # CS341 Lab
-Here you'll find all the starter codes for CS341 lab. Instructions for the lab are posted on <a href="https://www.cs.umb.edu/~cheungr/cs341/"> Professor Cheung's Website </a>. 
+Here you'll find all the starter codes for CS341 lab. Instructions for the lab are also posted on <a href="https://www.cs.umb.edu/~cheungr/cs341/"> Professor Cheung's Website </a>. 
 
 We will be using <a href="https://www.tinkercad.com"> TinkerCad </a> for digital labs. Instructions for setup and lab 1 will be coming shortly.
 
