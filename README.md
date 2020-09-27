@@ -2,7 +2,7 @@
 Here you'll find all the starter codes for CS341 lab. Instructions for the lab are also posted on <a href="https://www.cs.umb.edu/~cheungr/cs341/"> Professor Cheung's Website </a>.
 Policies can be found in the powerpoint for Lab 1.
 
-We will be using <a href="https://www.tinkercad.com"> TinkerCad </a> for digital labs. Instructions and starter codes for Lab 2 and beyond will come out periodically.
+We will be using <a href="https://www.tinkercad.com"> TinkerCad </a> for digital labs. Instructions and starter codes will come out periodically.
 
 **Please Note:** we are no longer going to be UnoArduSim this semester. My apologies to anyone who has already downloaded the environment. 
 
