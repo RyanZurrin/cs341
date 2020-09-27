@@ -1,5 +1,6 @@
 #local and temporary files
 ~*
+*.*~
 *.tmp
 
 # Prerequisites
