@@ -66,8 +66,8 @@ void setup() {
   
   // Part 3: print out the ram
   /* Example function calls: 
+  
 		displayRAM((char *) 0x100, (char *) 0x200, false);
-		
 		//displays memory in 0x100 blocks with 2 second delays 
 		displayAllRAM(2000, false); 
 	*/
