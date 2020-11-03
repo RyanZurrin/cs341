@@ -7,7 +7,7 @@ void setup() {
   Serial.begin(9600);
   
   pinMode(nightLight, OUTPUT);
-  pinMode(lightPin, OUTPUT);
+  pinMode(lightPin, INPUT);
   pinMode(motionPin, INPUT);
   
   digitalWrite(nightLight, LOW); //make sure the light is off
