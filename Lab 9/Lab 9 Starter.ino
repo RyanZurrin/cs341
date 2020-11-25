@@ -8,7 +8,7 @@ void setup() {
 
 void loop() {
   d = ping(pingPin);
-  Serial.println(v);
+  Serial.println(d);
   delay(DELTA_T);
 }
 
