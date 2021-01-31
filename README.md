@@ -4,9 +4,6 @@ Policies can be found in the powerpoint for Lab 1.
 
 We will be using <a href="https://www.tinkercad.com"> TinkerCad </a> for digital labs. Instructions and starter codes will come out periodically.
 
-**Please Note:** we are no longer going to be UnoArduSim this semester. My apologies to anyone who has already downloaded the environment. 
-
-
 ## Download
 You can download files each week by clicking the green button above or use git to download all at once.
 
